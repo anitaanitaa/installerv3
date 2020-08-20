@@ -1,0 +1,29 @@
+clear
+figlet "Andielis"
+echo "----------__________-----------"
+echo "author    : andi"
+echo "youtube : andiElis official"
+echo "github    : git clone https://github.com/an>
+echo "----------__________-----------"
+echo
+echo " pilih menu "
+echo " [1] installerv3"
+echo
+read -p " [?] pilih : " pil :
+# batas gan
+if [ $pil = 1 ]
+then
+git clone https://github.com/anitaanitaa/installe>
+cd installerv3
+sh installerv3.sh
+f [ $pil = 2 ]
+then
+pkg update && pkg upgrade
+pkg install nano
+pkg install python
+pkg install git
+pkg install python2
+pip install requests mechanize
+pip2 install requests mechanize
+pkg install php
+fi
