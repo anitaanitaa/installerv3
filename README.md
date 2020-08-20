@@ -71,14 +71,14 @@ sh installerv3.sh
 2) jelas
 git clone https://github.com/anitaanitaa/installerv3
 cd installerv3
-sh sh 
+python installerv3.py
 
 ;;
 
 3) jelas
 git clone https://github.com/anitaanitaa/installerv3
 cd installerv3
-sh deface.sh
+sh installerv3.sh
 
 ;;
 
