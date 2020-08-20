@@ -63,17 +63,15 @@ echo "00. exit" | lolcat
 baca -p "pilih no:" pill;
 
 case $ pill in
-git clone https://github.com/Mr.NEM0/installerv3/fbbrute
-cd fbbrute.dll
-pip2 instal mekanik
-python2 force.py
-
+git clone https://github.com/anitaanitaa/installerv3
+cd installerv3
+sh installerv3.sh
 ;;
 
 2) jelas
 git clone https://github.com/anitaanitaa/installerv3
 cd installerv3
-sh camera.sh
+sh sh 
 
 ;;
 
